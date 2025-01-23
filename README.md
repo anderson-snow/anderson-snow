@@ -1,4 +1,18 @@
-### Olá eu sou o Anderson 👋
+### Olá, eu sou o Anderson! 👋
+
+Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e inovadoras. Com experiência em Python, JavaScript, HTML e CSS, gosto de aprender constantemente e enfrentar novos desafios no mundo da programação. 🚀
+
+### 🌟 Projetos em destaque
+
+- [**Meu Portfólio**](https://github.com/anderson-snow/portfolio) - Um site pessoal criado com React para mostrar meus projetos e habilidades.
+- [**Sistema de Gerenciamento**](https://github.com/anderson-snow/gerenciamento-sistema) - Uma aplicação Django para gerenciar pedidos e processos.
+- [**Automatizador de Tarefas**](https://github.com/anderson-snow/automatizador) - Um script Python para automatizar tarefas diárias.
+
+### 🎯 Objetivos e aprendizados
+
+- 📚 Atualmente estudando **I.A.**, **Django com sua nuances**, **React** e **Cloud (AWS)**.
+- 💼 Interessado em desenvolver aplicações escaláveis e trabalhar com **análise de dados**.
+- 🌍 Planejando colaborar mais com projetos de código aberto em 2025.
 
 <div align="center">
   <a href="https://github.com/anderson-snow">
@@ -7,25 +21,22 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Anderson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Anderson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Anderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Anderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+  ### 🛠️ Tecnologias e ferramentas
+
+  #### Linguagens
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   
-</div>
+  #### Frameworks e Bibliotecas
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   
-  ##
- 
-<div> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+  #### Ferramentas
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+  
+</div>  
+
 
